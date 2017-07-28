@@ -1,0 +1,24 @@
+ █ [ C:\Users\matquesa\Desktop\Angular Projects\Project1\src\app\Recipe_Book ] ng g c Recipe_List
+installing component
+  create src\app\Recipe_Book\recipe-list\recipe-list.component.css
+  create src\app\Recipe_Book\recipe-list\recipe-list.component.html
+  create src\app\Recipe_Book\recipe-list\recipe-list.component.spec.ts
+  create src\app\Recipe_Book\recipe-list\recipe-list.component.ts
+  update src\app\app.module.ts
+
+█ [ C:\Users\matquesa\Desktop\Angular Projects\Project1\src\app\Recipe_Book ] ng g c Recipe_Item
+installing component
+  create src\app\Recipe_Book\recipe-item\recipe-item.component.css
+  create src\app\Recipe_Book\recipe-item\recipe-item.component.html
+  create src\app\Recipe_Book\recipe-item\recipe-item.component.spec.ts
+  create src\app\Recipe_Book\recipe-item\recipe-item.component.ts
+  update src\app\app.module.ts
+
+█ [ C:\Users\matquesa\Desktop\Angular Projects\Project1\src\app\Recipe_Book ] ng g c Recipe_Detail
+installing component
+  create src\app\Recipe_Book\recipe-detail\recipe-detail.component.css
+  create src\app\Recipe_Book\recipe-detail\recipe-detail.component.html
+  create src\app\Recipe_Book\recipe-detail\recipe-detail.component.spec.ts
+  create src\app\Recipe_Book\recipe-detail\recipe-detail.component.ts
+  update src\app\app.module.ts
+
